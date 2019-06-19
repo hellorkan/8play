@@ -1,6 +1,6 @@
 owner=460606140666085378
-prefix=1
-game=Five Music.
+prefix=La
+game=Navi Music.
 stayinchannel=true
 songinstatus=false
 token=NTc3OTcyNTg2NzM0OTQ0MjY5.XNs2oA.7VbZVlci89g7VYNvDtsC3mtvAXc
